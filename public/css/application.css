@@ -1,0 +1,28 @@
+html { 
+  height: 100% 
+}
+
+body { 
+  height: 100%; 
+  margin: 0; 
+  padding: 0;
+  width: 100%;
+}
+
+#map-canvas { 
+  height: 100% 
+}
+
+#panel{
+  width: 450px;
+  margin: 0 auto;
+  height: 80px;
+}
+
+#panel input{
+  width: 250px;
+  height: 25px;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
